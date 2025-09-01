@@ -14,7 +14,7 @@
 
 ### 🧭 About Me
 
-I started out as a ** Server Engineer** managing and troubleshooting servers.
+I started out as a **Server Engineer** managing and troubleshooting servers.
 After 3.5 years in that role, I decided to shift gears into **DevOps**—
 not just maintaining systems, but **building, automating, and scaling** them.
 
