@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hey, I’m Eliyas</h1>
 <p align="center">
-  <b>DevOps Engineer in the making • Cloud & Automation • Sharing the journey</b>
+  <b>Server Engineer | Devops Engineer</b>
 </p>
 
 <p align="center">
@@ -14,31 +14,24 @@
 
 ### 🧭 About Me
 
-I started out as a **Server Engineer** managing and troubleshooting servers.
-After 3.5 years in that role, I decided to shift gears into **DevOps**.
+I am an IT professional with 4+ years of experience in Linux server administration, incident management, and operational reliability across production environments.
 
-Now, I’m on a journey of becoming a **DevOps engineer** - not just using the tools, but learning *why* and *how* they are beneficial while I break and fix things.
+I have supported 100+ Linux servers in customer environments, handled high-severity incidents, automated operational workflows, and contributed to improving infrastructure reliability.
+
+I am currently focused on Cloud and DevOps Engineering, building reproducible infrastructure using Infrastructure as Code, Kubernetes, and CI/CD pipelines.
 
 ---
 
 ### 🛠️ Tech I Use (and enjoy)
 
-- **Cloud & Containers:** AWS (also started exploring Azure), Docker, Kubernetes
+- **Cloud:** AWS (also started exploring Azure)
+- **Containers:** Docker, Kubernetes (EKS, k3s
 - **CI/CD & GitOps:** Jenkins, GitHub Actions, Argo CD
 - **IaC & Automation:** Terraform, Ansible
 - **Monitoring:** AWS Cloudwatch, Prometheus, Grafana
 - **Scripting:** Bash, Python 
 
 ----
-
-### 🎯 2025 Goals
-
-- 🌎 Land a **DevOps Engineer** role
-- 🏗️ Build a portfolio of **production-ish** projects
-- 📝 Start sharing **how** I built (not just what)
-
----
-
 
 ### 🧩 Toolbox
 
