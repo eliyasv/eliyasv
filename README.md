@@ -25,7 +25,7 @@ I am currently focused on Cloud and DevOps Engineering, building reproducible in
 ### 🛠️ Tech I Use (and enjoy)
 
 - **Cloud:** AWS (also started exploring Azure)
-- **Containers:** Docker, Kubernetes (EKS, k3s
+- **Containers:** Docker, Kubernetes (EKS, k3s, ECS)
 - **CI/CD & GitOps:** Jenkins, GitHub Actions, Argo CD
 - **IaC & Automation:** Terraform, Ansible
 - **Monitoring:** AWS Cloudwatch, Prometheus, Grafana
