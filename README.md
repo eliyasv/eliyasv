@@ -41,6 +41,7 @@ I enjoy understanding how systems work internally, why failures happen, and how 
 - CI/CD pipelines using GitHub Actions and Jenkins
 - GitOps with Argo CD
 - Infrastructure automation using Ansible
+- Experimenting on my Homelab
 - Learning production architecture and operational best practices
 
 ---
